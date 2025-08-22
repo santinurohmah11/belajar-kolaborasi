@@ -1,3 +1,4 @@
 # belajar-kolaborasi
-Belajar GitHub di Dicoding sangat menyenangkan!<br>
-bari kita belajar sampai bisa!!!
+hari ini saya belajar github<br>
+belajar GitHub di dicoding sangat seru lohh<br>
+mari kita lanjutkan belajarnya!!
